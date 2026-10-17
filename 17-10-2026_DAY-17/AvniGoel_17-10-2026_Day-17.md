@@ -1,7 +1,7 @@
 # Codeforces 69 A. **Young Physicist**
 
 ## **Approach** - 
-    -Initialize sums of \(x\), \(y\), and \(z\) to 0.
+    -Initialize sums of x, y, and z to 0.
     -Add each force vector's components to their respective sums.
     -If all three sums are 0, print YES (equilibrium); otherwise, print NO.
 
